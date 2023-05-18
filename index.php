@@ -106,11 +106,9 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong>for educational only<a href="https://1sourcecodr.blogspot.com/">1 Source code</a>.</strong>
-    All rights reserved.
-    <div class="float-right d-none d-sm-inline-block">
-      <b>Customer Support System</b>
-    </div>
+  
+  &copy; 2023 All rights reserved    <b>Support Hive</b>
+
   </footer>
 </div>
 <!-- ./wrapper -->
